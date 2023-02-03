@@ -16,7 +16,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { Loader } from '@googlemaps/js-api-loader';
 
 const apiOptions = {
-  apiKey: 'AIzaSyBezu3U5OJ2Zt22AREd_sZ511mrttbqlfQ',
+  apiKey: '',
   version: 'beta',
   map_ids: '6237050499016b17',
 };
